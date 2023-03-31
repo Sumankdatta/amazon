@@ -1,0 +1,38 @@
+.cart{
+    position: sticky;
+    top:20%;
+}
+.order-summary{
+    text-align: center;
+    
+}
+.calculation{
+    margin-left: 25px;
+    margin-top: 40px;
+}
+.btn-clear{
+    width: 75%;
+    margin-left: 10%;
+    border: none;
+    background-color:red;
+    padding: 8px;
+    font-size: 18px;
+    color: azure;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+.btn-next{
+    width: 75%;
+    margin-left: 10%;
+    border: none;
+    background-color:rgb(255, 136, 0);
+    padding: 8px;
+    font-size: 18px;
+    color: azure;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+.btn-next a{
+    text-decoration: none;
+    color: white;
+}
