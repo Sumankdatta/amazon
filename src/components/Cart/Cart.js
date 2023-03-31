@@ -33,6 +33,7 @@ const grandTotal=total + shipping +tax ;
                 <p>Total Shipping : ${shipping}</p>
                 <p>Tax : ${tax.toFixed(2)}</p>
                 <h5>Grand Total : ${grandTotal.toFixed(2)}</h5>
+                <p>Thank you</p>
 
                 <button className='btn-clear' onClick={clearCart}>
                     Clear Cart <FontAwesomeIcon className='button-clear' icon={faTrashAlt}></FontAwesomeIcon>
